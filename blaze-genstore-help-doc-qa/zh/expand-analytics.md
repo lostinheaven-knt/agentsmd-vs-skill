@@ -1,0 +1,63 @@
+---
+layout: SectionPage
+
+banner:
+  title: "分析"
+  description: "您可以使用 Genstore 的分析和报告来详细了解您的销售情况和客户。您可以查看的商店分析和报告类型取决于您的订阅套餐。此外，您还可配置第三方分析服务，如 Google Analytics，已获得更多的业务洞察。"
+
+categories:
+  - title: "Genstore Analytics "
+    list:
+      - title: "报告仪表盘"
+        description: "仪表板快照展示关键指标和转化漏斗图，助您评估和优化商店表现"
+        icon: "RocketIcon"
+        link: "#"
+      - title: "实时视图"
+        description: "网站活动的即时数据，包括访客来源、行为和交易状态等"
+        icon: "RocketIcon"
+        link: "#"
+      - title: "获客报告"
+        description: "全面展示各类访问量细分数据"
+        icon: "MailIcon"
+        link: "#"
+      - title: "行为报告"
+        description: "追踪搜索、互动及产品表现数据"
+        icon: "MessageSquareIcon"
+        link: "#"
+      - title: "客户报告"
+        description: "详释新老客户的销售、留存与行为趋势"
+        icon: "ShareIcon"
+        link: "#"
+      - title: "财务报告"
+        description: "详述销售、税费、运费及支付状况"
+        icon: "SearchIcon"
+        link: "#"
+      - title: "库存报告"
+        description: "展示库存状态、销量及库存预警信息"
+        icon: "PuzzleIcon"
+        link: "#"
+      - title: "营销报告"
+        description: "总结营销活动表现与多渠道营销效果"
+        icon: "PuzzleIcon"
+        link: "#"
+      - title: "订单报告"
+        description: "概述订购、发货、退货及配送时间"
+        icon: "PuzzleIcon"
+        link: "#"
+      - title: "销售报告"
+        description: "展示各渠道、产品及地点的销售绩效"
+        icon: "PuzzleIcon"
+        link: "expand-genstore-analytics-reports-sales"
+
+  - title: "Google Analytics"
+    list:
+      - title: "设置 Google Analytics"
+        description: "设置 Google Analytics"
+        icon: "TagIcon"
+        link: "#"
+      - title: "跟踪 Google Analytics 活动"
+        description: "设置 Google Analytics 4 (GA4) 后，系统将自动跟踪某些电子商务活动。"
+        icon: "GiftIcon"
+        link: "#"
+
+---

@@ -1,0 +1,14 @@
+/OBSIDIAN
+.obsidian/
+.gitkeep
+.DS_Store
+.vscode
+.vs
+node_modules
+package-lock.json
+package.json
+.vscode
+.vscode
+.vscode/settings.json
+.vscode
+/..md

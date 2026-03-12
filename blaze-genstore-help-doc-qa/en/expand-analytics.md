@@ -1,0 +1,63 @@
+---
+layout: SectionPage
+
+banner:
+  title: "Analytics"
+  description: "Utilize Genstore's analytics and reports for a detailed understanding of your sales and customers. The type of store analytics and reports you can view depends on your subscription plan. Additionally, you can configure third-party analytics services, such as Google Analytics, for deeper business insights."
+
+categories:
+  - title: "Genstore Analytics "
+    list:
+      - title: "Dashboard "
+        description: "Dashboard snapshot shows key metrics and conversion funnels, helping you assess and optimize store performance."
+        icon: "RocketIcon"
+        link: "#"
+      - title: "Live View"
+        description: "Immediate data on store activity, including visitor sources, behaviors, and transaction statuses."
+        icon: "RocketIcon"
+        link: "#"
+      - title: "Acquisition Reports"
+        description: "Comprehensively displays segmented visitor data"
+        icon: "MailIcon"
+        link: "#"
+      - title: "Behavior Reports"
+        description: "Tracks search, interaction, and product performance data"
+        icon: "MessageSquareIcon"
+        link: "#"
+      - title: "Customer Reports"
+        description: "Details sales, retention, and behavior trends of new versus returning customers"
+        icon: "ShareIcon"
+        link: "#"
+      - title: "Financial Reports"
+        description: "Details sales, taxes, shipping, and payment conditions"
+        icon: "SearchIcon"
+        link: "#"
+      - title: "Inventory Reports"
+        description: "Shows inventory status, sales volume, and stock alerts"
+        icon: "PuzzleIcon"
+        link: "#"
+      - title: "Marketing Reports"
+        description: "Summarizes performance of marketing activities and multichannel marketing effects"
+        icon: "PuzzleIcon"
+        link: "#"
+      - title: "Order Reports"
+        description: "Summarizes order placement, fulfillment, returns, and delivery times"
+        icon: "PuzzleIcon"
+        link: "#"
+      - title: "Sales Reports"
+        description: "Displays sales performance by channel, product, and location"
+        icon: "PuzzleIcon"
+        link: "expand-genstore-analytics-reports-sales"
+
+  - title: "Google Analytics"
+    list:
+      - title: "Set up Google Analytics"
+        description: "Set up Google Analytics"
+        icon: "TagIcon"
+        link: "#"
+      - title: "Track Google Analytics activities"
+        description: "Once Google Analytics 4 (GA4) is set up, the system automatically tracks certain e-commerce activities"
+        icon: "GiftIcon"
+        link: "#"
+
+---

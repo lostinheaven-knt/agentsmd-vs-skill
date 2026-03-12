@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+
+# local secrets
+.secrets.env
+.env
+
+# logs/artifacts
+qa_conversation_*.log
+artifacts/
+
+# editor
+.vscode/
+.idea/
+.DS_Store
